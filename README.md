@@ -1,3 +1,3 @@
 ### Hi there 👋
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=snww&theme=dracula" />
 
-![snww's GitHub stats](https://github-readme-stats.vercel.app/api?username=snww&show_icons=true&theme=radical)
